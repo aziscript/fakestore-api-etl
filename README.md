@@ -2,6 +2,9 @@
 
 A production-style ETL pipeline that extracts live e-commerce data from the [Fake Store API](https://fakestoreapi.com), transforms it into a star schema, and loads it into a PostgreSQL data warehouse.
 
+## Dashboard Preview
+![Dashboard Screenshot](screenshot.png)
+
 ---
 
 ## What makes this different
